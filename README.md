@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/gamecube/killer7)**.
+
 Traducción al **español de España** de *killer7* (Nintendo GameCube, 2005), el thriller de Grasshopper
 Manufacture y Suda51 publicado por Capcom, que nunca salió en español (la versión europea solo traía inglés,
 francés y alemán).
